@@ -8,4 +8,4 @@ The numbers of vertical and horizontal measurements can be controlled by int var
 
 When measurements are taken, the phyton program creates a map of cubes representing obstacles in a 3D Blender environment. 
 
-Because I use 180-degree range servos, a 3d map is only half the sphere.
+Because I use 180-degree range servos, a 3D map is only half the sphere.
