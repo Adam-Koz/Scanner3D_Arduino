@@ -1,5 +1,4 @@
 # Scanner3D_Arduino
-
 Inspired by this device: https://youtu.be/zAPWRaifZII?t=61 I decided to build something similar using Arduino and the open-source app Blender 3D. 
 
 First I had to build electronics. The base of this project is Arduino and ultrasonic sensor mounted on servos.
